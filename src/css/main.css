@@ -26,3 +26,7 @@ textarea {
 .hidden {
     display: none !important;
 }
+
+.header {
+	text-align: center;
+}
